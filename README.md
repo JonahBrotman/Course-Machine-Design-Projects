@@ -10,3 +10,4 @@ The preliminary design consisted of:
 - Determining the gear ratios for the Top Speed and Hill Climb tests through simulations completed in python.
 - Determining the numbers of teeth for each gear in the gear train.
 - Selecting the basic shaft layout based on the provided size constraints of the gear box, gears, and shafts.
+- Preliminary Design Analysis Simulation Python Code: https://github.com/JonahBrotman/Course-Machine-Design-Projects/blob/main/Jonah_Brotman_MECH323_Project_Preliminary_Analysis.ipynb
